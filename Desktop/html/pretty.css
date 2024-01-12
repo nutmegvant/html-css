@@ -1,0 +1,203 @@
+@import url('https://fonts.googleapis.com/css?family=Delius+Swash+Caps');
+
+head {
+    background-image: url("background.jpg");
+    background-position: center;
+    background-color: #f2e8c8;
+    background-size: 100%;
+   }
+
+.title {
+    background-color: #f2e8c8;
+    display: block;
+    }
+
+h1 {
+    text-align: center;
+    font-family: "Delius Swash Caps", cursive;
+    font-size: 70px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+h2 {
+    text-align: center;
+    font-size: 25px;
+    font-family: Georgia, serif;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+    display: block;
+    outline-offset: 0px;
+    height: auto;
+    width: auto;
+    border: solid 6px rgba(188, 140, 194, 0.549);
+    border-radius: 30px;
+    background-color: #f2e8c8;
+    }
+
+.paragraph {
+    display: block;
+    outline-offset: 0px;
+    height: auto;
+    width: auto;
+    border: solid 6px rgba(188, 140, 194, 0.549);
+    border-radius: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bolder;
+    font-family: Georgia, serif;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    background-color: #f2e8c8;
+    }
+
+img {
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border: solid 6px rgba(188, 140, 194, 0.549);
+    border-radius: 50%;
+    }
+
+body {
+    background-image: url("background.jpg");
+    background-position: center;
+    background-color: #f2e8c8;
+    background-size: 100%;
+    }
+
+.container {
+    display: block;
+    outline-offset: 0px;
+    height: 300px;
+    width: 300px;
+    border: solid 6px rgba(188, 140, 194, 0.549);
+    border-radius: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+    background-color: #f2e8c8
+    }
+
+.container1 {
+    display: block;
+    outline-offset: 0px;
+    height: 300px;
+    width: 300px;
+    border: solid 6px rgba(188, 140, 194, 0.549);
+    border-radius: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+    background-color: #f2e8c8
+    }
+
+.container2 {
+    display: block;
+    outline-offset: 0px;
+    height: 300px;
+    width: 300px;
+    border: solid 6px rgba(188, 140, 194, 0.549);
+    border-radius: 30px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+    background-color: #f2e8c8
+    }
+
+
+figcaption {
+    text-align: center;
+    font-size: 25px;
+    font-family: Georgia, serif;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    font-weight: bold;
+    text-shadow: 2px 2px 2px #D09DCC;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+ul {
+    text-align: center;
+    font-size: 20px;
+    font-family: Georgia, serif;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    
+    }
+
+ol {
+    text-align: center;
+    font-size: 20px;
+    font-family: Georgia, serif;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+a {
+    text-decoration: none;
+    color: black;
+    }
+
+a:hover {
+    text-decoration: underline;
+    color: rgb(180, 72, 217);
+  }
+
+/*a:visited {
+    text-decoration: none;
+    color: #41916C;
+    }*/
+
+.footer {
+    text-align: center;
+    font-size: 15px;
+    font-family: Georgia, serif;
+    font-weight: bold;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    outline-offset: 0px;
+    height: auto;
+    width: auto;
+    border: solid 6px rgba(188, 140, 194, 0.549);
+    border-radius: 30px;
+    background-color: #f2e8c8
+}
+
